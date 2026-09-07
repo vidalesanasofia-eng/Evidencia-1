@@ -4,7 +4,7 @@
 
 Este repositorio documenta el desarrollo del reto realizado en colaboración con FEMSA y Spin OXXO, enfocado en el área de préstamos digitales **Spin Credit**. El objetivo es diseñar una solución analítica que permita identificar, monitorear y generar alertas sobre operaciones de crédito que representen un riesgo de lavado de dinero, en cumplimiento con las obligaciones establecidas por la LFPIORPI ante la Unidad de Inteligencia Financiera (UIF) y el SAT.
 
-Spin by OXXO nació en 2021 como monedero digital para atender a la población no bancarizada de México. Spin Credit es su producto de préstamos, actualmente en fase de prueba piloto, con miras a expandirse como nueva línea de negocio lo cual trae consigo obligaciones regulatorias de identificación de clientes, conocimiento de su actividad económica, y reporte de operaciones sospechosas.
+Spin by OXXO nació en 2021 como monedero digital para atender a la población no bancarizada de México. Spin Credit es su producto de préstamos, actualmente en fase de prueba piloto, con intenciones de expandirse como nueva línea de negocio lo cual trae consigo obligaciones regulatorias de identificación de clientes, conocimiento de su actividad económica, y reporte de operaciones sospechosas.
 
 ## Contenido del repositorio
 
