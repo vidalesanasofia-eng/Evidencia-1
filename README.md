@@ -15,7 +15,9 @@ Spin by OXXO nació en 2021 como monedero digital para atender a la población n
 | [`resumen-guia-sat.pdf`](resumen-guia-sat.pdf) | Marco regulatorio: qué es el lavado de dinero, obligaciones ante el SAT/UIF, y cómo aplican a las operaciones de crédito de Spin. |
 | [`limpieza_de_datos_femsa.ipynb`](Limpieza%20de%20datos%20femsa.ipynb) | Proceso de limpieza y normalización de la base de datos de créditos, documentado paso a paso. |
 | [`FEMSA(1).pbix`](FEMSA%20%281%29.pbix) | Dashboard Interactivo con análisis de la base de datos limpia con KPI´s, gráficos e identificación de operaciones de clientes. |
-| [![](https://markdown-videos.deta.dev/youtubr/Z5ZlkqqqcsY)](https://youtu.be/Z5ZlkqqqcsY) | Resumen de todo el reto en formato de video|
+
+## Resumen de todo el reto en formato de video
+[![Ver video](https://img.youtube.com/vi/Z5ZlkqqqcsY)](https://www.youtube.com/watch?v=Z5ZlkqqqcsY)
 
 ## Herramientas utilizadas
 
