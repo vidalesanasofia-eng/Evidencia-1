@@ -17,7 +17,8 @@ Spin by OXXO nació en 2021 como monedero digital para atender a la población n
 | [`FEMSA(1).pbix`](FEMSA%20%281%29.pbix) | Dashboard Interactivo con análisis de la base de datos limpia con KPI´s, gráficos e identificación de operaciones de clientes. |
 
 ## Resumen de todo el reto en formato de video
-[![](https://img.youtube.com/vi/Z5ZlkqqqcsY)](https://www.youtube.com/watch?v=Z5ZlkqqqcsY)
+[![Ver video](https://img.youtube.com/vi/Z5ZlkqqqcsY/0.jpg)](https://www.youtube.com/watch?v=Z5ZlkqqqcsY)
+
 
 ## Herramientas utilizadas
 
