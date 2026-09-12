@@ -13,7 +13,7 @@ Spin by OXXO nació en 2021 como monedero digital para atender a la población n
 | [`problematica_spin_credit.md`](problematica_spin_credit.md) | Contexto del socio formador, problemática del reto y restricciones de los datos. |
 | [`diccionario_de_columnas.md`](Diccionario%20de%20columnas.md) | Descripción de cada columna de la base de datos de créditos, su significado de negocio y su relevancia para el análisis de PLD. |
 | [`resumen-guia-sat.pdf`](resumen-guia-sat.pdf) | Marco regulatorio: qué es el lavado de dinero, obligaciones ante el SAT/UIF, y cómo aplican a las operaciones de crédito de Spin. |
-| [`Base_Operaciones_Credito_LIMPIA.xlsx`](Base_Operaciones_Credito_LIMPIA.xlsx) | Contexto del socio formador, problemática del reto y restricciones de los datos. |
+| [`Base_Operaciones_Credito_LIMPIA.xlsx`](Base_Operaciones_Credito_LIMPIA.xlsx) | Base de datos limpia. |
 | [`limpieza_de_datos_femsa.ipynb`](Limpieza%20de%20datos%20femsa.ipynb) | Proceso de limpieza y normalización de la base de datos de créditos, documentado paso a paso. |
 | [`FEMSA(1).pbix`](FEMSA%20%281%29.pbix) | Dashboard Interactivo con análisis de la base de datos limpia con KPI´s, gráficos e identificación de operaciones de clientes. |
 
